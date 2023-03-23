@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gmwmx"]
+	path = gmwmx
+	url = https://github.com/cran/gmwmx
+	shallow = true
+	registered = true
+[submodule "idarps"]
+	path = idarps
+	url = https://github.com/cran/idarps
+	shallow = true
+	registered = true
