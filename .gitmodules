@@ -8,3 +8,6 @@
 [submodule "idarps"]
 	path = idarps
 	url = https://github.com/cran/idarps
+[submodule "swaglm"]
+	path = swaglm
+	url = https://github.com/cran/swaglm
